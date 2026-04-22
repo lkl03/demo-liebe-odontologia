@@ -1,2 +1,7 @@
-# demo-liebe-odontologia
-Demo web para Liebe Odontologia — diseñada por eterlab.
+# Liebe Odontologia
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
